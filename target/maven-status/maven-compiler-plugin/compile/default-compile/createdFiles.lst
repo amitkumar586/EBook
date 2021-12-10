@@ -1,0 +1,14 @@
+com\learn\myebook\message\Message.class
+com\learn\myebook\servlet\BookDeleteServlet.class
+com\learn\myebook\servlet\RegisterServlet.class
+com\learn\myebook\helper\ConnectionProvider.class
+com\learn\myebook\daoimpl\BookDaoImpl.class
+com\learn\myebook\servlet\LoginServlet.class
+com\learn\myebook\daoimpl\UserDaoImpl.class
+com\learn\myebook\servlet\EditBooksServlet.class
+com\learn\myebook\servlet\BooksAdd.class
+com\learn\myebook\dao\BookDao.class
+com\learn\myebook\servlet\LogoutServlet.class
+com\learn\myebook\entities\BookDetails.class
+com\learn\myebook\dao\UserDao.class
+com\learn\myebook\entities\User.class
